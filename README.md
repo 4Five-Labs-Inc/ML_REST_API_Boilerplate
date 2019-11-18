@@ -35,13 +35,13 @@ You can add all your app services in [src/services/__init__.py](https://github.c
         return 'sample service'
 
 #### Database
-You can register a database connection under [src/database](https://github.com/4Five-Labs-Inc/ML_REST_API_Boilerplate/blob/master/src/database/connection.py)
+You can register a database connection under [src/database](https://github.com/4Five-Labs-Inc/ML_REST_API_Boilerplate/blob/master/src/database)
 
 #### Models
 You can load all your machine learning models under [src/models](https://github.com/4Five-Labs-Inc/ML_REST_API_Boilerplate/blob/master/src/models)
 
 #### Utils
-You can add any extra utilities to your application under [src/utils](https://github.com/4Five-Labs-Inc/ML_REST_API_Boilerplate/blob/master/src/utils/utils.py)
+You can add any extra utilities to your application under [src/utils](https://github.com/4Five-Labs-Inc/ML_REST_API_Boilerplate/blob/master/src/utils)
 
 ## Contributing
 
